@@ -1,5 +1,5 @@
 ---
-title: "一种多模态融合方法PreFIL"
+title: "不需要OCR的文档理解Transformer：Donut"
 date: 2022-10-20T10:34:49+08:00
 draft: false
 toc: true
